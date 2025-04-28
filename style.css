@@ -5,6 +5,7 @@ body{
 #title{
   font-size: 5rem;
   text-align: center;
+  transition: opacity 0.3s ease;
 }
 #btn{
   position: absolute;
